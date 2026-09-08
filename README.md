@@ -1,6 +1,16 @@
 # 📷 Custom Photo Classifier
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://custom-image-classifier.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/akshad-n/custom-Image-classifier)
+
 A deep learning image classification web application built with **TensorFlow / Keras** and **Streamlit**. It uses transfer learning with **MobileNetV2** to accurately classify technology and hardware objects.
+
+---
+
+## 🌐 Live Demo
+
+The application is deployed and live on Streamlit Community Cloud:  
+👉 **[custom-image-classifier.streamlit.app](https://custom-image-classifier.streamlit.app/)**
 
 ---
 
